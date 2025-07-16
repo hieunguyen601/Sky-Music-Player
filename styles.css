@@ -56,3 +56,14 @@ body {
     cursor: pointer;
 }
 
+@media (max-width: 780px) {
+    body {
+        background-image: url(./images/sky-background.png);
+        background-size: 550px;
+    }
+
+    .container {
+        background-image: none;
+        margin-bottom: 150px;
+    }
+}
