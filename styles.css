@@ -66,4 +66,8 @@ body {
         background-image: none;
         margin-bottom: 150px;
     }
+
+    .control-buttons button {
+        font-size: 22px;
+    }
 }
